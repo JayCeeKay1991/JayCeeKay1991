@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>she/her</p>
 <p>A fullstack web developer based in Stockholm. Engineer by day, leveling up by writing silly applications or joining hackathons by night.</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayCeeKay1991&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayCeeKay1991&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
